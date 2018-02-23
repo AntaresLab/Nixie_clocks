@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Main_board\Nixie_clocks_Main_board.PrjPcb
+[Project2]
+ProjectPath=Controls_board\Nixie_clocks_Controls_board.PrjPcb

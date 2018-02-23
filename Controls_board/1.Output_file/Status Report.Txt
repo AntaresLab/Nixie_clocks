@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Nixie_clocks_Controls_board.PcbDoc]
+   Generated File[Nixie_clocks_Controls_board-Plated.TXT]
+   Generated File[Nixie_clocks_Controls_board-NonPlated.TXT]
+   Generated File[Nixie_clocks_Controls_board.LDP]
+   Generated File[Nixie_clocks_Controls_board.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:33:27 On 23.02.2018
