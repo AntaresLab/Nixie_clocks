@@ -38,23 +38,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Nixie_clocks_Main_board.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document2]
 DocumentPath=Nixie_clocks_Main_board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +54,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UXCJBKPQ
 
-[Document3]
+[Document2]
 DocumentPath=Nixie_clocks_Main_board.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,100 +71,153 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OVETIKAG
 
+[Document3]
+DocumentPath=Nixie_clocks_Main_board.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board-Plated.TXT
+DocumentPath=1.Output_file\Gerbers\Nixie_clocks_Main_board-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=.\1.Output_file\Nixie_clocks_Main_board-Plated.TXT
+DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board.DRR
+DocumentPath=Project Outputs for Free Documents\1.Output_file\Gerbers\Nixie_clocks_Main_board-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=.\1.Output_file\Nixie_clocks_Main_board.DRR
+DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board.EXTREP
+DocumentPath=Project Outputs for Free Documents\1.Output_file\Gerbers\Nixie_clocks_Main_board.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=.\1.Output_file\Nixie_clocks_Main_board.EXTREP
+DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board.GBL
+DocumentPath=Project Outputs for Free Documents\1.Output_file\Gerbers\Nixie_clocks_Main_board.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=.\1.Output_file\Nixie_clocks_Main_board.GBL
+DocumentPath=1.Output_file\Gerbers\Nixie_clocks_Main_board.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board.GBO
+DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=.\1.Output_file\Nixie_clocks_Main_board.GBO
+DocumentPath=Project Outputs for Free Documents\1.Output_file\Gerbers\Nixie_clocks_Main_board.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board.GBS
+DocumentPath=1.Output_file\Gerbers\Nixie_clocks_Main_board.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=.\1.Output_file\Nixie_clocks_Main_board.GBS
+DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board.GKO
+DocumentPath=Project Outputs for Free Documents\1.Output_file\Gerbers\Nixie_clocks_Main_board.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=.\1.Output_file\Nixie_clocks_Main_board.GKO
+DocumentPath=1.Output_file\Gerbers\Nixie_clocks_Main_board.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board.GTL
+DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=.\1.Output_file\Nixie_clocks_Main_board.GTL
+DocumentPath=Project Outputs for Free Documents\1.Output_file\Gerbers\Nixie_clocks_Main_board.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board.GTO
+DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=.\1.Output_file\Nixie_clocks_Main_board.GTO
+DocumentPath=Project Outputs for Free Documents\1.Output_file\Gerbers\Nixie_clocks_Main_board.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board.GTS
+DocumentPath=1.Output_file\Gerbers\Nixie_clocks_Main_board.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=.\1.Output_file\Nixie_clocks_Main_board.GTS
+DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board.LDP
+DocumentPath=Project Outputs for Free Documents\1.Output_file\Gerbers\Nixie_clocks_Main_board.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=.\1.Output_file\Nixie_clocks_Main_board.LDP
+DocumentPath=1.Output_file\Gerbers\Nixie_clocks_Main_board.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board.REP
+DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=.\1.Output_file\Nixie_clocks_Main_board.REP
+DocumentPath=Project Outputs for Free Documents\1.Output_file\Gerbers\Nixie_clocks_Main_board.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=1.Output_file\Gerbers\Nixie_clocks_Main_board.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Free Documents\1.Output_file\Gerbers\Nixie_clocks_Main_board.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Free Documents\1.Output_file\Gerbers\Nixie_clocks_Main_board.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board.REP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Free Documents\1.Output_file\Gerbers\Nixie_clocks_Main_board.REP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=.\1.Output_file\Gerbers\Nixie_clocks_Main_board.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Free Documents\1.Output_file\Gerbers\Nixie_clocks_Main_board.RUL
 DItemRevisionGUID=
 
 [Configuration1]
@@ -192,7 +228,6 @@ ReleaseItemId=
 Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=
-ConfigurationType=
 
 [Generic_EDE]
 OutputDir=Project Outputs for Nixie_clocks_Main_board
@@ -885,7 +920,7 @@ OutputDefault9=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=\\ELECTRON-1\HP LaserJet Professional M1132 MFP
+TargetPrinter=HP LaserJet 1018
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
