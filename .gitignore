@@ -15,6 +15,7 @@
 !*.GBL
 !*.GBS
 !*.GBO
+!*.GKO
 !*.txt
 !*.h
 !*.c
